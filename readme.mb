@@ -1,0 +1,64 @@
+Equipe de Desenvolvimento do To-Do List: Fantastic Edition
+
+||========================================||
+||      To-Do List: Fantastic Edition     ||
+||========================================||
+
+Responsável:
+Matheus Barros - Desenvolvimento e teste total do código
+
+Bibliotecas utilizadas:
+Estilo do terminal - npm i chalk@3.0.0
+Add o Prompt - npm i prompt-sync
+
+Respostas às Perguntas:
+
+1. Tudo o que foi pedido foi realizado? Faltou algo?
+  Sim. O código atendeu à todas os requisitos do projeto.
+
+2. Há algum problema/erro identificado?
+   Depois de vários testes nenhum erro foi identificado.
+
+3. Descrição da experiência:
+   O desenvolvimento foi bem divertido, pois aprendi algumas novar formas de solucionar problemas além de ser um desafio bem interessante.
+
+4. Dificuldades encontradas:
+   Na programação de alguns métodos houve sim algumas travadas, como o método marcar_concluida. Apesar de tudo foi somente reescrever o método e tudo deu certo. Fora esses pequenos obstáculos houve nada muito complicado. 
+   Também senti que o terminal fica bastante poluído com o uso prolongado do código, procurei formas de solucionar esse problema mas não consegui resolver.
+
+Referências:
+
+biblioteca para extilização do terminal (const chalk = require('chalk');) - https://medium.com/code-prestige/como-estilizar-as-mensagens-do-terminal-no-node-88b269a824ae
+
+||========================================||
+||      To-Do List: Fantastic Edition     || VERSÃO 1.0.2
+||========================================||
+
+Nessa atualização o código foi encapsulado, sendo dividido em 4 arquivos sendo 3 deles pacotes
+
+||========================================||
+||      To-Do List: Fantastic Edition     || VERSÃO 2.0.1
+||========================================||
+
+Responsável:
+Matheus Barros - Desenvolvimento e teste total do código
+
+Bibliotecas utilizadas:
+Estilo do terminal - npm i chalk@3.0.0
+Add o Prompt - npm i prompt-sync
+As outras bibliotecas foram criadas por mim e já constam no arquivo.
+
+1. Tudo o que foi pedido foi realizado? Faltou algo?
+  Sim. O código atendeu à todas os requisitos do projeto. 
+
+2. Há algum problema/erro identificado?
+   Depois de vários testes nenhum erro foi identificado.
+
+3. Descrição da experiência:
+   Foi bem mais desafiador que o primeiro projeto, pois tive que reescrever muitas coisas afim de encapsular mais o código. Apesar de tudo foi bem tranquilo
+
+4. Dificuldades encontradas:
+   Nessa nova etapa, encontrei menos dificuldades do que na primeira versão. O maior desafio foi pensar em como apresentar o programa para o usuário, pois surgiram novas formas de realizar tarefas bastante distintas. Apesar de ter alcançado um resultado, não fiquei completamente satisfeito com o visual final do "front end". Acredito que isso se deve, em grande parte, às limitações do terminal, o que dificulta a apresentação visualmente atraente.
+
+   Referências:
+   ---
